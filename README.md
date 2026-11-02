@@ -13,6 +13,8 @@ Los archivos `actualizacion.json`, `actualizacion-linux.json` y `servidor.json` 
 
 Este repositorio distribuye los paquetes. El desarrollo se mantiene en un repositorio privado.
 
+Después de un período de pruebas, cuando el juego pase a su lanzamiento público, el código fuente también se hará público.
+
 ## Servidor en Docker
 
 El paquete de Linux incluye `Dockerfile` y `docker-compose.yml`, junto con el servidor y el cliente web firmados.
